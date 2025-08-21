@@ -97,7 +97,7 @@ Given a pair of questions from Quora, predict whether they are duplicates (i.e.,
 
 **Author:** Aditya Singh
 
-**Contact:** [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/AdiSinghCodes)
+**Contact:** [LinkedIn](linkedin.com/in/aditya-singh-2b319b299) | [GitHub](https://github.com/AdiSinghCodes)
 
 ---
 
